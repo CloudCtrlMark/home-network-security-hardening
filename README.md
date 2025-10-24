@@ -13,3 +13,12 @@ It includes static IP configuration, subnetting, firewall rules, WPA3 router sec
 - Apply network and host-based firewalls
 - Implement WPA3 encryption and disable insecure router settings
 - Document and test network security controls
+
+
+## Tools & Technologies 
+- VMware Workstation  
+- Windows 10/11  
+- Ubuntu Server  
+- pfSense (optional firewall/router)  
+- Windows Defender Firewall / UFW  
+- Wireshark (for verification) 
