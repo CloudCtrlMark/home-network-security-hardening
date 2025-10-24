@@ -22,3 +22,6 @@ It includes static IP configuration, subnetting, firewall rules, WPA3 router sec
 - pfSense (optional firewall/router)  
 - Windows Defender Firewall / UFW  
 - Wireshark (for verification) 
+
+
+## Network Topology
