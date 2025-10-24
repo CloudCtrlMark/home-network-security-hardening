@@ -14,6 +14,7 @@ It includes static IP configuration, subnetting, firewall rules, WPA3 router sec
 - Implement WPA3 encryption and disable insecure router settings
 - Document and test network security controls
 
+---
 
 ## Tools & Technologies 
 - VMware Workstation  
@@ -24,4 +25,18 @@ It includes static IP configuration, subnetting, firewall rules, WPA3 router sec
 - Wireshark (for verification) 
 
 
+---
+
 ## Network Topology
+| Device | Role | IP Address | OS |
+|---------|------|-------------|----|
+| VM1 | Workstation | 192.168.50.20 | Windows 10 |
+| VM2 | Server | 192.168.50.10 | Ubuntu Server |
+| VM3 | Router/Firewall | 192.168.50.1 | pfSense (optional) |
+
+
+
+---
+
+## Configuration Summary
+### Static IP Setup
