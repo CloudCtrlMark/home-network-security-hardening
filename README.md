@@ -40,7 +40,3 @@ It includes static IP configuration, subnetting, firewall rules, WPA3 router sec
 
 ## Configuration Summary
 ### Static IP Setup
-```bash
-# Ubuntu
-sudo nano /etc/netplan/00-installer-config.yaml
-# Assigned IP 192.168.50.10
