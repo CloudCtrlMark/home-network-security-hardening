@@ -1,1 +1,1 @@
-# home-network-security-hardening
+# Home Network Setup & Security Hardening (VMware Workstation)
